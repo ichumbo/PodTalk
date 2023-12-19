@@ -9,8 +9,6 @@
 
   PodTalk é um site de Podcast, <br />responsivo para todos os dispositivos, construído usando HTML, CSS e JavaScript.
 
-  <a href="https://ichumbo.github.io/Ridex/"><strong>➥ Demonstação</strong></a>
-
 </div>
 
 <br />
