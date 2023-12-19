@@ -13,11 +13,6 @@
 
 <br />
 
-### Demonstração
-
-![Ridex Desktop Demo](/images/podApresenta.png "Desktop Demo")
-
-
 ### Contato
 
 Se você quiser entrar em contato comigo, pode entrar em contato comigo em [Twitter](https://www.twitter.com/IanMelw).
