@@ -5,9 +5,9 @@
   
   <img src="/images/pod-talk-logo.png" />
 
-  <h2 align="center">Ridex - Site de aluguel de carros</h2>
+  <h2 align="center">PodTalk - Site de aluguel de carros</h2>
 
-  Ridex é um site de aluguel de carros totalmente responsivo, <br />responsivo para todos os dispositivos, construído usando HTML, CSS e JavaScript.
+  PodTalk é um site de Podcast, <br />responsivo para todos os dispositivos, construído usando HTML, CSS e JavaScript.
 
   <a href="https://ichumbo.github.io/Ridex/"><strong>➥ Demonstação</strong></a>
 
