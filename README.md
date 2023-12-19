@@ -3,7 +3,7 @@
   <br />
   <br />
   
-  <img src="/images/podApresenta.png" />
+  <img src="/images/pod-talk-logo.png" />
 
   <h2 align="center">Ridex - Site de aluguel de carros</h2>
 
@@ -17,7 +17,7 @@
 
 ### Demonstração
 
-![Ridex Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Ridex Desktop Demo](/images/podApresenta.png "Desktop Demo")
 
 
 ### Contato
